@@ -36,7 +36,7 @@
 
 ## 社区
 
-- [EOS Chinese Community](https://eosfans.io/)
+- [EOS中文社区](https://eosfans.io/)
 - [EOS Go](https://forums.eosgo.io/)
 - [EOS Talk](https://eostalk.io)
 - [EOS Forum](https://eosforum.org/)
