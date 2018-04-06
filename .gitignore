@@ -4,7 +4,7 @@ bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
-
+.idea/
 # Other files and folders
 .settings/
 
